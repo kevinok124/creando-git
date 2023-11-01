@@ -11,6 +11,10 @@ function App() {
         <div>
           SEGUNDO PIE DE PÁGINA
         </div>
+    <div className="App">
+      <header>
+        <h1>Primer commit Cecilia</h1> 
+      </header>
     </div>
   );
 }
